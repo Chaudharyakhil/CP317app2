@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CP317app2</string>
+    <string name="backgroundImage">TODO</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="loginTitle">Login</string>
+    <string name="name">Name</string>
+    <string name="hintName">Name</string>
+    <string name="usernameHint">UserName</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="signupTitle">SignUp</string>
+    <string name="signupBtn">SignUp</string>
+    <string name="emailHint">Email</string>
+</resources>
